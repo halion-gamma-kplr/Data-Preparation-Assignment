@@ -1,0 +1,2 @@
+- Workshop 3 : Gestion des Valeurs-Aberrantes
+- Workshop 4 : Data-Transformation
